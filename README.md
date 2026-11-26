@@ -9,7 +9,7 @@ Aqui apenas acessei o localhost e dei um GET:
 
 logo após realizei um POST e registrei um pedido:
 
-<img width="1078" height="613" alt="image" src="https://github.com/user-attachments/assets/a00c34b1-10e3-4270-9b5c-e153a6fd5b1a" />
+<img width="1083" height="611" alt="image" src="https://github.com/user-attachments/assets/66b2d5a3-f1b5-4e97-8106-20390ea10691" />
 
 Depois dei um patch para atualizar o status do pedido para pronto:
 
